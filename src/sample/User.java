@@ -1,6 +1,5 @@
 package sample;
 
-
 public class User {
 
     private String firstName;   //required
