@@ -27,11 +27,9 @@ public class Main {
 
         //show users's info
         for(User user : users){
-            System.out.println("USER " + i);
+            System.out.println("USER " + i++);
             user.info();
-            i++;
         }
-
 
     }
 }
